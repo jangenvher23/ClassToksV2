@@ -1,0 +1,1 @@
+<translate android:interpolator="@android:anim/accelerate_interpolator" android:fromXDelta="0" android:toXDelta="0" android:duration="@android:integer/config_longAnimTime" xmlns:android="http://schemas.android.com/apk/res/android" />

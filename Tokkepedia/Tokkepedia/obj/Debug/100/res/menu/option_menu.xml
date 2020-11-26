@@ -1,0 +1,1 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"><!--///showAsAction="always" ///--><item android:id="@+id/option_normal" android:title="Normal Mode" showAsAction="always" /><item android:id="@+id/option_education" android:title="Education Mode" showAsAction="always" /></menu>
