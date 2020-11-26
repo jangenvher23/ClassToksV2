@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X7f7YE9PGPV528ZckXxf1m1MR582iysXyyOC6xVMmrUuwiBYN+gwfDAlA64yzOF9KOorzukbpofE6YCa+9w9yA==",
+  "dgSpecHash": "zdbrI6VZd7dgigJXy3bUP0ClMmb6OtYpBjJ0/3kdFUQoM/awugKoSGCI5/B5lLZAYdcgSJBZnZpLgPpAjjXv8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tokke\\Desktop\\ClassToks2\\Tokkepedia\\Tokkepedia.UITest\\Tokkepedia.UITest.csproj",
+  "projectFilePath": "C:\\Users\\tokke\\Desktop\\classtok\\Tokkepedia\\Tokkepedia.UITest\\Tokkepedia.UITest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tokke\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\nunit3testadapter\\3.13.0\\nunit3testadapter.3.13.0.nupkg.sha512",

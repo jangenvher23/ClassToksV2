@@ -12,6 +12,7 @@ namespace ClassToksV2.Views
             InitializeComponent();
         }
 
+
         private async void btnTokCards_Clicked(object sender, EventArgs e)
         {
             await Shell.Current.GoToAsync($"{nameof(TokCardsPage)}");

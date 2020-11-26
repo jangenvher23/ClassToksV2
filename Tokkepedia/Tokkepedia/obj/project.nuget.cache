@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EMlO+NiKBvvfM5I5kaFf9xKJbxsDoYQCLTIOgbTMa+Wg5B6JxQKTlQ6xrSGSkNTtBfSUvtMWOjQgI1S5EF/9fA==",
+  "dgSpecHash": "QdlQDtHN0HkbZTE7qfBCErDadXKLYWErKZmr1zZmQeTGHIyS/7myjWmIypr5je2z4gW4yz22vKaV2yGCa3SU+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tokke\\Desktop\\ClassToks2\\Tokkepedia\\Tokkepedia\\Tokkepedia.csproj",
+  "projectFilePath": "C:\\Users\\tokke\\Desktop\\classtok\\Tokkepedia\\Tokkepedia\\Tokkepedia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tokke\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
     "C:\\Users\\tokke\\.nuget\\packages\\flexboxlayoutxamarinbindingandroid\\1.0.2\\flexboxlayoutxamarinbindingandroid.1.0.2.nupkg.sha512",
@@ -136,10 +136,7 @@
       "message": "MvvmLightAndroidSupport 5.4.1.1 depends on Xamarin.Android.Support.v7.RecyclerView (>= 23.0.0) but Xamarin.Android.Support.v7.RecyclerView 23.0.0 was not found. An approximate best match of Xamarin.Android.Support.v7.RecyclerView 23.0.1.1 was resolved.",
       "libraryId": "Xamarin.Android.Support.v7.RecyclerView",
       "targetGraphs": [
-        "MonoAndroid,Version=v10.0",
-        "MonoAndroid,Version=v10.0/win",
-        "MonoAndroid,Version=v10.0/win-x64",
-        "MonoAndroid,Version=v10.0/win-x86"
+        "MonoAndroid,Version=v10.0"
       ]
     }
   ]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n5ofy3Rh6qSnQqi7VIN1IpJaQfqHPdXbU5kpAn5f9v/zi45U6+1/q/T19GeopOVQR+qUpz0b1Mds52Kte3aqyw==",
+  "dgSpecHash": "B+3zMZpEyqaCSNOzt+U3VB8O3nWzz8Zlko2+3wyGwS8mMgZUOdp5I/AvPvqQq/BePqZE7N4GUYddgIh5wlYv3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tokke\\Desktop\\ClassToks2\\Tokkepedia\\ClassToksV2\\ClassToksV2\\ClassToksV2.csproj",
+  "projectFilePath": "C:\\Users\\tokke\\Desktop\\classtok\\Tokkepedia\\ClassToksV2\\ClassToksV2\\ClassToksV2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tokke\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
     "C:\\Users\\tokke\\.nuget\\packages\\microsoft.appcenter\\4.0.0\\microsoft.appcenter.4.0.0.nupkg.sha512",

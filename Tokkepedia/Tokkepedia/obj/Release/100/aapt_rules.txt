@@ -1,0 +1,549 @@
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_main.xml:1
+-keep class Tokkepedia.LockableViewPager { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_alert_dialog_button_bar_material.xml:43
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_alert_dialog_title_material.xml:57
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_cascading_menu_item_layout.xml:20
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_popup_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_action_mode_bar.xml:19
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_screen_toolbar.xml:43
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_alert_dialog_material.xml:18
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_dialog_title_material.xml:22
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_screen_simple.xml:17
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+-keep class androidx.appcompat.widget.LinearLayoutCompat { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\108\jl\res\layout\preference_widget_switch_compat.xml:20
+-keep class androidx.appcompat.widget.SwitchCompat { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_screen_toolbar.xml:36
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_main.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addsection_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\classgroup_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profile_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tok_info_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokback_page.xml:3
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokcards_minigame_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokchoice_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokmatch_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tool_appbar.xml:1
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_screen_simple.xml:25
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\107\jl\res\layout\browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addsection_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtokmegadetail_row.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\classtok_tile_row.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\inviteusers_row.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\listview_row.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\mytoksets_row.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\reactionvalues_users_row.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_comments_replies_row.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_comments_row.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\userrequests_row.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\userrow.xml:2
+-keep class androidx.cardview.widget.CardView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_class_filterby.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_color_selection.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_hashtag.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addclassgroup_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addclassset_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addclasstok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\gameset_fragment_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\home_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\modal_addsticker.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\mysets_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\mysets_tokcards.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\mysets_toksets_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\mytoksets_row.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\patchesfragment_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profile_page.xml:12
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profiletitle_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\reactionvalues_users_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tok_info_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\toks_page.xml:1
+-keep class androidx.constraintlayout.widget.ConstraintLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_main.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addclasstok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addsection_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\classgroup_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\classgroupslist_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\106\jl\res\layout\design_bottom_sheet_dialog.xml:26
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\header_sidemenu.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\modal_imageviewer.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\mysetsview_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profile_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\reactionvalues_users_row.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\search_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\signup_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tok_info_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_replies_page.xml:1
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\105\jl\res\layout\abc_alert_dialog_material.xml:41
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_addgameset.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addclassgroup_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addclasstok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addquote_dialog.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\changepassword.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\classgroupmember_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\container.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\filter_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\forgotpassword_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\login_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profile_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\signup_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tok_info_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokback_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokchoice_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_comments_replies_row.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_replies_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokmatch_page.xml:2
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_main.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\crop_activity_main.xml:1
+-keep class androidx.drawerlayout.widget.DrawerLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\108\jl\res\layout\preference_widget_seekbar.xml:70
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\108\jl\res\layout\preference_widget_seekbar_material.xml:77
+-keep class androidx.preference.UnPressableLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\108\jl\res\layout\image_frame.xml:33
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\108\jl\res\layout\preference.xml:32
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\108\jl\res\layout\preference_dropdown.xml:39
+-keep class androidx.preference.internal.PreferenceImageView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_addgameset.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_class_filterby.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_color_selection.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_hashtag.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_viewgameset.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addclassset_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addclasstok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addquotepreview_dialog.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addset_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\avatarspage.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\badgespage.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\classgroupmember_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\classgroupslist_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\container.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\dialog_classgroup_list.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\gameset_fragment_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\home_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\inviteusers_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\modal_addsticker.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\mysets_tokcards.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\mysets_toksets_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\notification_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\patchesfragment_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\patchespage.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\108\jl\res\layout\preference_recyclerview.xml:18
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profile_page.xml:12
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profiletitlesfragment_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\reactionvalues_users_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\subaccount_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tok_info_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_replies_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\toks_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\toktypebasic_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\toktypedetailed_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\toktypemega_page.xml:2
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_hashtag.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_viewgameset.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\classgroupslist_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\home_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\mysets_tokcards.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\mysets_toksets_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\notification_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profile_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tok_info_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_replies_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\toks_page.xml:1
+-keep class androidx.swiperefreshlayout.widget.SwipeRefreshLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\classgroup_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\mysets_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\mysetsview_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\patchespage.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profiletitle_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\reactionvalues_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\search_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\toktgroups_page.xml:1
+-keep class androidx.viewpager.widget.ViewPager { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addset_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tok_info_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_replies_page.xml:1
+-keep class com.github.aakira.expandablelayout.ExpandableLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+-keep class com.github.aakira.expandablelayout.ExpandableRelativeLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addclasstok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addsection_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\classgroup_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\modal_imageviewer.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profile_page.xml:12
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tok_info_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokmatch_page.xml:2
+-keep class com.github.chrisbanes.photoview.PhotoView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addset_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\badgespage.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\gameset_row.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\header_sidemenu.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\inviteusers_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\inviteusers_row.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profile_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profiletitle_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\search_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tok_info_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokchoice_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_comments_replies_row.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_comments_row.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_replies_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\userrequests_row.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\userrow.xml:2
+-keep class com.google.android.flexbox.FlexboxLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_main.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\mysetsview_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profile_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\search_page.xml:1
+-keep class com.google.android.material.appbar.AppBarLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_main.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\mysetsview_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profile_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\search_page.xml:1
+-keep class com.google.android.material.appbar.CollapsingToolbarLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_main.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\classgroup_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\classgroupslist_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokcards_minigame_page.xml:1
+-keep class com.google.android.material.floatingactionbutton.FloatingActionButton { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\106\jl\res\layout\design_bottom_navigation_item.xml:27
+-keep class com.google.android.material.internal.BaselineLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\106\jl\res\layout\design_text_input_password_icon.xml:18
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\106\jl\res\layout\design_navigation_item.xml:17
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\106\jl\res\layout\design_navigation_menu.xml:17
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_main.xml:1
+-keep class com.google.android.material.navigation.NavigationView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\106\jl\res\layout\design_layout_snackbar.xml:18
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\106\jl\res\layout\mtrl_layout_snackbar.xml:18
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\106\jl\res\layout\design_layout_snackbar_include.xml:18
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\106\jl\res\layout\mtrl_layout_snackbar_include.xml:18
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\search_page.xml:1
+-keep class com.google.android.material.tabs.TabItem { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_main.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\classgroup_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\mysets_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\patchespage.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\reactionvalues_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\search_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tab_layout.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tablayout_white.xml:1
+-keep class com.google.android.material.tabs.TabLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_addgameset.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_edit_profile.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addclassgroup_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addclassset_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addclasstok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addsection_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addset_page.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_optionalfields.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtokdetail_row.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtokmegadetail_row.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\login_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profile_page_inputbox.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\signup_page.xml:1
+-keep class com.google.android.material.textfield.TextInputLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\73\jl\res\layout\crop_image_activity.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\fragment_main_customized.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\fragment_main_min_max.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\fragment_main_oval.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\fragment_main_rect.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\fragment_main_scale_center.xml:1
+-keep class com.theartofdev.edmodo.cropper.CropImageView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\lp\73\jl\res\layout\crop_image_view.xml:1
+-keep class com.theartofdev.edmodo.cropper.CropOverlayView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\header_sidemenu.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\notifications_row.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profile_page.xml:12
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_comments_row.xml:1
+-keep class de.hdodenhof.circleimageview.CircleImageView { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_hashtag.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\home_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\mysets_toksets_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\patchesfragment_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profile_page.xml:12
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\reactionvalues_users_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tok_info_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\toks_page.xml:1
+-keep class io.supercharge.shimmerlayout.ShimmerLayout { <init>(...); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\classgrouplist_row.xml:2
+-keepclassmembers class * { *** ItemRowClicked(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addclasstok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+-keepclassmembers class * { *** OnAddTokSticker(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtokdetail_row.xml:1
+-keepclassmembers class * { *** OnCheckAddTok(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\changepassword.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\moresettings.xml:1
+-keepclassmembers class * { *** OnClick(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addclasstok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+-keepclassmembers class * { *** OnClickAddDetail(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_detail1.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_replies_page.xml:1
+-keepclassmembers class * { *** OnClickAddReaction(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addsection_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtokdetail_row.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtokmegadetail_row.xml:1
+-keepclassmembers class * { *** OnClickAddTokImgDetail(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addclasstok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\signup_page.xml:1
+-keepclassmembers class * { *** OnClickAddTokImgMain(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\inviteusers_row.xml:1
+-keepclassmembers class * { *** OnClickBtnInvite(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_comments_replies_row.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_comments_row.xml:1
+-keepclassmembers class * { *** OnClickCancelComment(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_main.xml:1
+-keepclassmembers class * { *** OnClickClassMenu(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addclasstok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addsection_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\classgroup_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profile_page.xml:12
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tok_info_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokmatch_page.xml:2
+-keepclassmembers class * { *** OnClickCloseImgView(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profile_page.xml:2
+-keepclassmembers class * { *** OnClickCoverPhoto(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_main.xml:1
+-keepclassmembers class * { *** OnClickCustomMenu(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokmatch_page.xml:2
+-keepclassmembers class * { *** OnClickFrameDropZone(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\alertmessage_dialog.xml:1
+-keepclassmembers class * { *** OnClickImage(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\classgroup_page.xml:1
+-keepclassmembers class * { *** OnClickImageGroup(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tok_info_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_detail1.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_megasectiondetail.xml:2
+-keepclassmembers class * { *** OnClickImageToView(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addsection_page.xml:1
+-keepclassmembers class * { *** OnClickImageView(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_detail1.xml:1
+-keepclassmembers class * { *** OnClickInaccurate(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tok_info_page.xml:1
+-keepclassmembers class * { *** OnClickInaccurateMega(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tok_info_page.xml:1
+-keepclassmembers class * { *** OnClickParentToCancel(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_comments_replies_row.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_comments_row.xml:1
+-keepclassmembers class * { *** OnClickPopUpMenuComments(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\mytoksets_row.xml:1
+-keepclassmembers class * { *** OnClickPopUpMenuST(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+-keepclassmembers class * { *** OnClickPreviewCard(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+-keepclassmembers class * { *** OnClickPreviewInfo(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+-keepclassmembers class * { *** OnClickPreviewTile(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+-keepclassmembers class * { *** OnClickPreviewUser(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profile_page.xml:12
+-keepclassmembers class * { *** OnClickProfileImage(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\profile_page.xml:2
+-keepclassmembers class * { *** OnClickProfileUserImage(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_main.xml:1
+-keepclassmembers class * { *** OnClickQuotePage(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addclasstok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\signup_page.xml:1
+-keepclassmembers class * { *** OnClickRemoveTokImgMain(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tok_info_page.xml:1
+-keepclassmembers class * { *** OnClickTokBack(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_comments_replies_row.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_comments_row.xml:1
+-keepclassmembers class * { *** OnClickTokInfoCommenter(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_megasectiondetail.xml:2
+-keepclassmembers class * { *** OnClickTokInfoMegaEdit(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_megasectiondetail.xml:2
+-keepclassmembers class * { *** OnClickTokInfoMegaRemove(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_megasectiondetail.xml:2
+-keepclassmembers class * { *** OnClickTokInfoMegaView(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_comments_replies_row.xml:2
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokinfo_comments_row.xml:1
+-keepclassmembers class * { *** OnClickUpdateComment(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+-keepclassmembers class * { *** OnClickbtnImgCrop(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtokdetail_row.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtokmegadetail_row.xml:1
+-keepclassmembers class * { *** OnDelete(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addsection_page.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtokdetail_row.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtokmegadetail_row.xml:1
+-keepclassmembers class * { *** OnDeleteImageDtl(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tok_info_page.xml:1
+-keepclassmembers class * { *** OnFrameRTClicked(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokchoice_detailview.xml:2
+-keepclassmembers class * { *** OnShowHint(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\search_page.xml:1
+-keepclassmembers class * { *** OnTapSearchTip(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\addtok_page.xml:1
+-keepclassmembers class * { *** OnTapTip(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\tokback_detailview.xml:2
+-keepclassmembers class * { *** OnTapViewFlipperTokBack(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_main.xml:1
+-keepclassmembers class * { *** onClickBulb(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\header_sidemenu.xml:1
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\quote_page.xml:2
+-keepclassmembers class * { *** onClickGroupSelect(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\crop_activity_main.xml:1
+-keepclassmembers class * { *** onDrawerOptionClicked(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\activity_crop_result.xml:1
+-keepclassmembers class * { *** onImageViewClicked(android.view.View); }
+
+# Referenced at C:\Users\tokke\Desktop\classtok\Tokkepedia\Tokkepedia\obj\Release\100\res\layout\header_sidemenu.xml:1
+-keepclassmembers class * { *** onRedirectProfile(android.view.View); }
+

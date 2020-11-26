@@ -1,0 +1,1 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"><item android:id="@+id/btnMenuInfo" android:icon="@drawable/info_icon_24dp" android:orderInCategory="100" android:title="Info" app:showAsAction="always" /></menu>
